@@ -8,5 +8,9 @@ Please note, the interval chosen in the legend is very narrow to emphasize the l
 
 Sentinel-5 Precursor is a satellite launched on 13 October 2017 by the European Space Agency to monitor air pollution. The onboard sensor is frequently referred to as Tropomi (TROPOspheric Monitoring Instrument).
 
+*The flowchart of processes employed in the study for generating the predictive model in GEE.*
+
+
+![Image](https://github.com/sulova/NO2_COVID/NO2.jpg)
 
 
