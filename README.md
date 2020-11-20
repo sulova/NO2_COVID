@@ -11,6 +11,6 @@ Sentinel-5 Precursor is a satellite launched on 13 October 2017 by the European 
 *The flowchart of processes employed in the study for generating the predictive model in GEE.*
 
 
-![Image](https://github.com/sulova/NO2_COVID/blob/NO2.jpg?raw=true)
+![Image](https://github.com/sulova/NO2_COVID/blob/main/NO2.jpg)
 
 
