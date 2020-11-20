@@ -1,5 +1,4 @@
-# NO2_COVID
-The comparison of NO2 in Slovak &amp; Denmark, March 2019 and March 2020.
+# The comparison of NO2 in Denmark, March 2019 vs March 2020.
 
 
 Playing a bit in Google Earth Engine. The comparison of NO2 in Denmark, March 2019 and March 2020.
