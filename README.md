@@ -31,4 +31,4 @@ Map.addLayer(no2,{min:0.00007,max:0.00011, palette:"green,yellow,orange,red,blac
 var no2 = s5.filterDate("2020-03-01","2020-03-31").select("NO2_column_number_density").mean().clip(area);
 Map.addLayer(no2,{min:0.00007,max:0.00011,palette:"green,yellow,orange,red,black"},"NO2 - AFTER LOCKDOWN",1,1);
 
-```j
+```
